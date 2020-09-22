@@ -1,7 +1,7 @@
 {
   "description": "",
   "dependencies": {
-    "axios": "^0.10.0",
+    "axios": "^0.20.0",
     "cheerio": "^0.20.0",
     "nodemailer-sparkpost-transport": "^0.1.0"
   }
